@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-e%wmi)@=y5@5h+=a(3tc%!xsl&hky&(_5it^-zr%9kyicy9u(g
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1',]
+ALLOWED_HOSTS = ['shop.aboronifashion.xyz', 'www.shop.aboronifashion.xyz', 'localhost', '127.0.0.1']
 
 
 # Application definition
